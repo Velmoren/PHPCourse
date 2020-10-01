@@ -1,32 +1,33 @@
 <?
 
-foreach ([1, 2, 3, 4, 5, 6, 7, 8, 9] as $idx => $firstVal) {
-    foreach ([1, 2, 3, 4, 5, 6, 7, 8, 9] as $val) {
-        $pro = $val * ($idx + 1);
-        echo "<span style='width: 30px; display: inline-block; text-align: center; line-height: 30px'>$pro</span>";
+$arr = [];
+
+//вывод простых чисел
+for ($i = 2; $i <= 100; $i++) {
+    $numberEach = 0;
+    for ($j = 1; $j <= $i; $j++) {
+        if ($i % $j == 0) {
+            $numberEach++;
+        }
     }
-    echo "<br>";
+
+    if($numberEach == 2) {
+        //запись в массив $arr
+        array_push($arr, $i);
+    }
 }
 
-echo "<br>";
-
-$x = 1;
-do {
-    $xy = $x * $x;
-    $x++;
-    if($x*$x > 100) {
-        goto next;
-    }
-    echo $xy . "<br>";
-}while($x*$x <= 100);
-next: echo "Все";
-
-
-function myFunc($a, $b, $c=-5) {
-    echo "Произведение равно: " . $a * $b * $c . "<br>";
+//вывод на экран с новой строки
+foreach ($arr as $val) {
+    echo "Это простое число №: " . $val . "<br>";
 }
 
-echo "<br>";
-echo "<br>";
+//функция определения високосного года
+function isLeap($year) {
+    return date('L', mktime(0, 0, 0, 1, 1, $year));
+}
 
-myFunc(1,2,3);
+echo isLeap(2000);
+
+
+

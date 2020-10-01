@@ -7,3 +7,26 @@ foreach ([1, 2, 3, 4, 5, 6, 7, 8, 9] as $idx => $firstVal) {
     }
     echo "<br>";
 }
+
+echo "<br>";
+
+$x = 1;
+do {
+    $xy = $x * $x;
+    $x++;
+    if($x*$x > 100) {
+        goto next;
+    }
+    echo $xy . "<br>";
+}while($x*$x <= 100);
+next: echo "Все";
+
+
+function myFunc($a, $b, $c=-5) {
+    echo "Произведение равно: " . $a * $b * $c . "<br>";
+}
+
+echo "<br>";
+echo "<br>";
+
+myFunc(1,2,3);

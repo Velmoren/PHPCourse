@@ -6,6 +6,7 @@ abstract class Product
     public $width;
     public $height;
     public $img;
+    public $count = 0;
 
     public function __construct(string $title, int $width, int $height, string $img)
     {
@@ -14,7 +15,10 @@ abstract class Product
         $this->height = $height;
         $this->img = $img;
     }
-
+    public function incCount()
+    {
+        $this->count++;
+    }
     abstract public function showImage();
 }
 
@@ -30,9 +34,10 @@ class Chocolate extends Product
 
     public function showImage()
     {
+        $this->incCount();
         echo
         "<div style='display:flex; flex-direction: column; align-items: center; justify-content: space-between; background: url({$this->img}) no-repeat center/100%;width: {$this->width}px;height: {$this->height}px;border: 1px solid black;margin-bottom: 20px'>
-          <h2 style='text-align: center; margin: 0;'>{$this->title}</h2>
+          <h2 style='text-align: center; margin: 0;'>{$this->title}{$this->count}</h2>
           <h3 style='text-align: center; margin: 0;'>{$this->cal} ККАЛ</h3>
         </div>";
     }

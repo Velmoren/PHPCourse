@@ -1,6 +1,5 @@
 <?php
-$name = $_POST['name'];
-$surname = $_POST['surname'];
 $age = $_POST['age'];
 
-echo " Привет, меня зовут " . $name . " " . $surname . ", мой возраст - " . $age;
+$Age = ((time()- strtotime ("$age"))  /(3600 * 24 * 365));
+echo intval($Age);

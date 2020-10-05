@@ -1,4 +1,8 @@
-<form action="/common.php" style="display:flex; flex-direction: column" method="post">
+<?php
+    echo " Привет, меня зовут " . $_GET['name'] . " " . $_GET['surname'] . " , мой возраст - " . $_GET['age'];
+?>
+
+<form action="#" style="display:flex; flex-direction: column" method="get">
 
     <label style="margin-bottom: 10px">
         <input type="text" name="name" placeholder="Name">

@@ -9,15 +9,15 @@ class Product
 
     public function __construct($title, $price, $weight, $nds)
     {
-        $this->title = $title;
-        $this->price = $price;
-        $this->weight = $weight;
-        $this->nds = $nds;
+        is_string($title) ? $this->title = $title : NULL;
+        is_int($price) ? $this->price = $price : NULL;
+        is_int($weight) ? $this->weight = $weight : NULL;
+        is_int($nds) ? $this->nds = $nds : NULL;
     }
 
     public function printPrice()
     {
-        return $this -> price;
+        return $this->price;
     }
 
     public function printNDSPrice()
@@ -35,16 +35,13 @@ class Product
           <h3 style='text-align: center'>{$this->weight} грамм.</h3>
         </div>";
     }
-
-
-
 }
 
-$productItem = new Product('Болт', 20, '60', '10');
+$productItem = new Product('Болт', 20, 60, 10);
 $productItem->printArticle();
 
-$productItem = new Product('Винт', 30, '100', '12');
+$productItem = new Product('Винт', 30, 100, 12);
 $productItem->printArticle();
 
-$productItem = new Product('Шпунт', 40, '120', '7');
+$productItem = new Product('Шпунт', 40, 120, 7);
 $productItem->printArticle();

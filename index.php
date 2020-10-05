@@ -1,47 +1,66 @@
 <?php
 
-class Product
+abstract class Product
 {
     public $title;
-    public $price;
-    public $weight;
-    public $nds;
+    public $width;
+    public $height;
 
-    public function __construct($title, $price, $weight, $nds)
+    public function __construct(string $title, int $width, int $height)
     {
-        is_string($title) ? $this->title = $title : NULL;
-        is_int($price) ? $this->price = $price : NULL;
-        is_int($weight) ? $this->weight = $weight : NULL;
-        is_int($nds) ? $this->nds = $nds : NULL;
+        $this->title = $title;
+        $this->width = $width;
+        $this->height = $height;
     }
 
-    public function printPrice()
+    public function showImage()
     {
-        return $this->price;
-    }
-
-    public function printNDSPrice()
-    {
-        return $this->printPrice() - $this->nds;
-    }
-
-    public function printArticle()
-    {
-        echo
-        "<div style='width: 200px;height: 200px;border: 1px solid black;margin-bottom: 20px'>
+        echo "<div style='width: {$this->width}px;height: {$this->height}px;border: 1px solid black;margin-bottom: 20px'>
           <h2 style='text-align: center'>{$this->title}</h2>
-          <h3 style='text-align: center'>{$this->printPrice()} руб.</h3>
-          <h3 style='text-align: center'>{$this->printNDSPrice()} руб. без НДС</h3>
-          <h3 style='text-align: center'>{$this->weight} грамм.</h3>
         </div>";
     }
 }
 
-$productItem = new Product('Болт', 20, 60, 10);
-$productItem->printArticle();
+class Chocolate extends Product
+{
+    public $cal;
 
-$productItem = new Product('Винт', 30, 100, 12);
-$productItem->printArticle();
+    public function __construct(string $title, int $width, int $height, int $cal)
+    {
+        $this->cal = $cal;
+        parent::__construct( $title,  $width,  $height);
+    }
 
-$productItem = new Product('Шпунт', 40, 120, 7);
-$productItem->printArticle();
+    public function showImage()
+    {
+        echo
+        "<div style='display:flex; flex-direction: column; align-items: center; justify-content: space-between; background: url(choco.png) no-repeat center/100%;width: {$this->width}px;height: {$this->height}px;border: 1px solid black;margin-bottom: 20px'>
+          <h2 style='text-align: center; margin: 0;'>{$this->title}</h2>
+          <h3 style='text-align: center; margin: 0;'>{$this->cal} ККАЛ</h3>
+        </div>";
+    }
+
+}
+
+class Candy extends Product
+{
+    public function __construct(string $title, int $width, int $height)
+    {
+        parent::__construct( $title,  $width,  $height);
+    }
+
+    public function showImage()
+    {
+        echo
+        "<div style='background: url(konfeta.png) no-repeat center/100%;width:{$this->width}px;height: {$this->height}px;border: 1px solid black;margin-bottom: 20px'>
+          <h2 style='text-align: center; margin: 0;'>{$this->title}</h2>
+        </div>";
+    }
+}
+
+$choco = new Chocolate('Konfeta', 200, 200, 120);
+$choco->showImage();
+
+$cand = new Candy('Konfeta', 200, 200);
+$cand->showImage();
+

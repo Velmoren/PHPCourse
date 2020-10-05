@@ -2,109 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68b4f6d0-087f-4067-9004-8ca5780c0b94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/ReadMe.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/css/styles-2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/css/styles-3.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/css/styles-4.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/css/styles-5.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/css/styles-6.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/images/profile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/js/min/main-min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/default/base.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/default/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/default/responsive.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/default/styles.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/default/theme-default.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-2/base.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-2/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-2/responsive.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-2/styles.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-2/theme-default.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-3/base.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-3/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-3/responsive.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-3/styles.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-3/theme-default.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-4/base.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-4/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-4/responsive.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-4/styles.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-4/theme-default.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-5/base.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-5/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-5/responsive.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-5/styles.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-5/theme-default.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-6/base.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-6/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-6/responsive.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-6/styles.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-6/theme-default.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/.hound.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap-theme.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/js/npm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/HELP-US-OUT.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/animated.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/bordered-pulled.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/core.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/fixed-width.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/font-awesome.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/icons.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/larger.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/path.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/rotated-flipped.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/stacked.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_animated.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_fixed-width.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_larger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_path.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_stacked.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/font-awesome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/jquery-1.11.3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/data.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson_3" />
+        <entry key="$PROJECT_DIR$" value="lesson_4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -142,6 +41,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.php" />
+        <item itemvalue="JavaScript Debug.index.php" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +58,7 @@
       <workItem from="1601542769343" duration="4073000" />
       <workItem from="1601547263509" duration="6180000" />
       <workItem from="1601553529936" duration="7797000" />
+      <workItem from="1601882362367" duration="2592000" />
     </task>
     <task id="LOCAL-00001" summary="lesson_2">
       <created>1601547379463</created>

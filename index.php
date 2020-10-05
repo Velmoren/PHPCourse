@@ -1,34 +1,18 @@
 <?php
+    echo " Привет, меня зовут " . $_GET['name'] . " " . $_GET['surname'] . " , мой возраст - " . $_GET['age'];
+?>
 
-class Article
-{
-    public $title;
-    public $titleFontSize;
-    public $articleBody;
-    public $articleBodyFontSize;
-    public $border;
-    public $bg;
+<form action="#" style="display:flex; flex-direction: column" method="get">
 
-    public function __construct($title, $titleFontSize, $articleBody, $articleBodyFontSize, $border, $bg)
-    {
-        $this->title = $title;
-        $this->titleFontSize = $titleFontSize;
-        $this->articleBody = $articleBody;
-        $this->articleBodyFontSize = $articleBodyFontSize;
-        $this->border = $border;
-        $this->bg = $bg;
-    }
+    <label style="margin-bottom: 10px">
+        <input type="text" name="name" placeholder="Name">
+    </label>
+    <label style="margin-bottom: 10px">
+        <input type="text" name="surname" placeholder="Surname">
+    </label>
+    <label style="margin-bottom: 10px">
+        <input type="number" name="age" placeholder="Age">
+    </label>
 
-    public function printArticle()
-    {
-        echo
-        "<div style='border: {$this->border}; background: {$this->bg}; font-size: {$this->articleBodyFontSize}px'>
-          <h2 style='font-size: {$this->titleFontSize}px'>{$this->title}</h2>
-          <span>{$this->articleBody}</span>
-        </div>";
-    }
-
-}
-
-$sportsNews = new Article('Привет, Мир!', 20, 'Lorem Lorem', 14, '2px solid black', 'red');
-$sportsNews->printArticle();
+    <button type="submit" style="width: 100px;">Отправить</button>
+</form>

@@ -1,0 +1,227 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"68b4f6d0-087f-4067-9004-8ca5780c0b94\" name=\"Default Changelist\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/index.php\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/ReadMe.txt\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/css/styles-2.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/css/styles-3.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/css/styles-4.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/css/styles-5.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/css/styles-6.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/css/styles.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/images/profile.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/js/main.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/js/min/main-min.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/css/styles.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/default/base.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/default/mixins.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/default/responsive.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/default/styles.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/default/theme-default.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-2/base.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-2/mixins.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-2/responsive.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-2/styles.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-2/theme-default.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-3/base.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-3/mixins.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-3/responsive.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-3/styles.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-3/theme-default.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-4/base.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-4/mixins.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-4/responsive.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-4/styles.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-4/theme-default.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-5/base.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-5/mixins.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-5/responsive.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-5/styles.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-5/theme-default.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-6/base.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-6/mixins.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-6/responsive.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-6/styles.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/less/theme-6/theme-default.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/.editorconfig\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/.gitattributes\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/.gitignore\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/.hound.yml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/.travis.yml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap-theme.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap-theme.css.map\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap-theme.min.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap-theme.min.css.map\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap.css.map\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap.min.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap.min.css.map\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/js/bootstrap.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/js/bootstrap.min.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/js/npm.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/HELP-US-OUT.txt\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/css/font-awesome.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/css/font-awesome.min.css\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/fonts/FontAwesome.otf\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/animated.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/bordered-pulled.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/core.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/fixed-width.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/font-awesome.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/icons.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/larger.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/list.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/mixins.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/path.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/rotated-flipped.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/stacked.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/variables.less\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_animated.scss\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_bordered-pulled.scss\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_core.scss\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_fixed-width.scss\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_icons.scss\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_larger.scss\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_list.scss\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_mixins.scss\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_path.scss\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_rotated-flipped.scss\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_stacked.scss\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_variables.scss\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/font-awesome.scss\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/assets/plugins/jquery-1.11.3.min.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/data.php\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/favicon.ico\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/portfolio/index.php\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"lesson_3\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1iBn2TjyBFF62VKkhmDW7PepV1U\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"nodejs_interpreter_path.stuck_in_default_project\" value=\"undefined stuck path\" />\r\n    <property name=\"nodejs_npm_path_reset_for_default_project\" value=\"true\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"index.php\" type=\"JavascriptDebugType\" temporary=\"true\" nameIsGenerated=\"true\" uri=\"http://localhost:63342/PHPCourse/portfolio/index.php\" useBuiltInWebServerPort=\"true\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"JavaScript Debug.index.php\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"68b4f6d0-087f-4067-9004-8ca5780c0b94\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1601389647947</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1601389647947</updated>\r\n      <workItem from=\"1601389651012\" duration=\"1978000\" />\r\n      <workItem from=\"1601392335018\" duration=\"10000\" />\r\n      <workItem from=\"1601542769343\" duration=\"4073000\" />\r\n      <workItem from=\"1601547263509\" duration=\"6180000\" />\r\n      <workItem from=\"1601553529936\" duration=\"7797000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"lesson_2\">\r\n      <created>1601547379463</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601547379463</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"v1.0.1\">\r\n      <created>1601548420224</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601548420224</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"v1.0.0\">\r\n      <created>1601553204052</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601553204052</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"v1.0.0\">\r\n      <created>1601558562213</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601558562213</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"v1.0.0\">\r\n      <created>1601558747167</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601558747167</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"lesson_2\" />\r\n    <MESSAGE value=\"v1.0.1\" />\r\n    <MESSAGE value=\"v1.0.0\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"v1.0.0\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"229\" y=\"2\" key=\"CommitChangelistDialog2\" timestamp=\"1601558745451\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"229\" y=\"2\" key=\"CommitChangelistDialog2/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601558745451\" />\r\n    <state x=\"198\" y=\"252\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1601558749605\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"198\" y=\"252\" key=\"Vcs.Push.Dialog.v2/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601558749605\" />\r\n    <state x=\"269\" y=\"233\" key=\"search.everywhere.popup\" timestamp=\"1601547314864\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"269\" y=\"233\" key=\"search.everywhere.popup/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601547314864\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision c5678b4129d72271fc673ee69d107a69ebdc25e6)
++++ .idea/workspace.xml	(date 1601627191558)
+@@ -2,109 +2,8 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="68b4f6d0-087f-4067-9004-8ca5780c0b94" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/ReadMe.txt" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/css/styles-2.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/css/styles-3.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/css/styles-4.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/css/styles-5.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/css/styles-6.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/css/styles.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/images/profile.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/js/main.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/js/min/main-min.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/css/styles.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/default/base.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/default/mixins.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/default/responsive.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/default/styles.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/default/theme-default.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-2/base.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-2/mixins.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-2/responsive.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-2/styles.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-2/theme-default.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-3/base.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-3/mixins.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-3/responsive.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-3/styles.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-3/theme-default.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-4/base.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-4/mixins.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-4/responsive.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-4/styles.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-4/theme-default.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-5/base.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-5/mixins.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-5/responsive.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-5/styles.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-5/theme-default.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-6/base.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-6/mixins.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-6/responsive.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-6/styles.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/less/theme-6/theme-default.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/.editorconfig" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/.gitattributes" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/.hound.yml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/.travis.yml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap-theme.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap-theme.css.map" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap-theme.min.css.map" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/js/bootstrap.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/bootstrap/js/npm.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/HELP-US-OUT.txt" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/css/font-awesome.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/animated.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/bordered-pulled.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/core.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/fixed-width.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/font-awesome.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/icons.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/larger.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/list.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/mixins.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/path.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/rotated-flipped.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/stacked.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/less/variables.less" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_animated.scss" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_core.scss" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_fixed-width.scss" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_icons.scss" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_larger.scss" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_list.scss" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_mixins.scss" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_path.scss" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_stacked.scss" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/_variables.scss" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/font-awesome/scss/font-awesome.scss" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/assets/plugins/jquery-1.11.3.min.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/data.php" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/favicon.ico" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/portfolio/index.php" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -133,6 +32,7 @@
+     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+     <property name="nodejs_package_manager_path" value="npm" />
++    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+     <property name="vue.rearranger.settings.migration" value="true" />
+   </component>
+   <component name="RunManager">
+@@ -157,7 +57,39 @@
+       <workItem from="1601392335018" duration="10000" />
+       <workItem from="1601542769343" duration="4073000" />
+       <workItem from="1601547263509" duration="6180000" />
+-      <workItem from="1601553529936" duration="7797000" />
++      <workItem from="1601553529936" duration="8182000" />
++      <workItem from="1601623634464" duration="11000" />
++      <workItem from="1601623693832" duration="11000" />
++      <workItem from="1601623742353" duration="148000" />
++      <workItem from="1601623910269" duration="8000" />
++      <workItem from="1601623979000" duration="157000" />
++      <workItem from="1601624160112" duration="162000" />
++      <workItem from="1601624340680" duration="43000" />
++      <workItem from="1601624409728" duration="127000" />
++      <workItem from="1601624555733" duration="77000" />
++      <workItem from="1601624675128" duration="26000" />
++      <workItem from="1601624722045" duration="49000" />
++      <workItem from="1601624789978" duration="25000" />
++      <workItem from="1601624832318" duration="164000" />
++      <workItem from="1601625009657" duration="58000" />
++      <workItem from="1601625089458" duration="21000" />
++      <workItem from="1601625132896" duration="17000" />
++      <workItem from="1601625160486" duration="88000" />
++      <workItem from="1601625275007" duration="18000" />
++      <workItem from="1601625301046" duration="13000" />
++      <workItem from="1601625326626" duration="121000" />
++      <workItem from="1601625465649" duration="60000" />
++      <workItem from="1601625538398" duration="69000" />
++      <workItem from="1601625627943" duration="12000" />
++      <workItem from="1601625730651" duration="210000" />
++      <workItem from="1601625981430" duration="15000" />
++      <workItem from="1601626007664" duration="30000" />
++      <workItem from="1601626048249" duration="51000" />
++      <workItem from="1601626243482" duration="2000" />
++      <workItem from="1601626299110" duration="23000" />
++      <workItem from="1601626333259" duration="9000" />
++      <workItem from="1601626363699" duration="225000" />
++      <workItem from="1601626605687" duration="585000" />
+     </task>
+     <task id="LOCAL-00001" summary="lesson_2">
+       <created>1601547379463</created>
+@@ -194,7 +126,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1601558747167</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="v1.0.0">
++      <created>1601561562279</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1601561562279</updated>
++    </task>
++    <task id="LOCAL-00007" summary="v1.0.0">
++      <created>1601561616993</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1601561616993</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -207,14 +153,30 @@
+     <option name="LAST_COMMIT_MESSAGE" value="v1.0.0" />
+   </component>
+   <component name="WindowStateProjectService">
+-    <state x="229" y="2" key="CommitChangelistDialog2" timestamp="1601558745451">
++    <state x="554" y="315" key="#Notifications" timestamp="1601624697956">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="554" y="315" key="#Notifications/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601624697956" />
++    <state x="533" y="330" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1601626320549">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="533" y="330" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601626320549" />
++    <state x="229" y="2" key="CommitChangelistDialog2" timestamp="1601561616500">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="229" y="2" key="CommitChangelistDialog2/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601561616500" />
++    <state x="580" y="233" key="FileChooserDialogImpl" timestamp="1601626318566">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="229" y="2" key="CommitChangelistDialog2/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601558745451" />
+-    <state x="198" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601558749605">
++    <state x="580" y="233" key="FileChooserDialogImpl/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601626318566" />
++    <state x="922" y="142" key="SettingsEditor" timestamp="1601626814514">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="198" y="252" key="Vcs.Push.Dialog.v2/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601558749605" />
++    <state x="922" y="142" key="SettingsEditor/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601626814514" />
++    <state x="198" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601561621425">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="198" y="252" key="Vcs.Push.Dialog.v2/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601561621425" />
+     <state x="269" y="233" key="search.everywhere.popup" timestamp="1601547314864">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>

@@ -1,0 +1,21 @@
+Index: index.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?php\r\n\r\nclass Article\r\n{\r\n    public $title;\r\n    public $titleFontSize;\r\n    public $articleBody;\r\n    public $articleBodyFontSize;\r\n    public $border;\r\n    public $bg;\r\n\r\n    public function __construct($title, $titleFontSize, $articleBody, $articleBodyFontSize, $border, $bg)\r\n    {\r\n        $this->title = $title;\r\n        $this->titleFontSize = $titleFontSize;\r\n        $this->articleBody = $articleBody;\r\n        $this->articleBodyFontSize = $articleBodyFontSize;\r\n        $this->border = $border;\r\n        $this->bg = $bg;\r\n    }\r\n\r\n    public function printArticle()\r\n    {\r\n        echo\r\n        \"<div style='border: {$this->border}; background: {$this->bg}; font-size: {$this->articleBodyFontSize}px'>\r\n          <h2 style='font-size: {$this->titleFontSize}px'>{$this->title}</h2>\r\n          <span>{$this->articleBody}</span>\r\n        </div>\";\r\n    }\r\n\r\n}\r\n\r\n$sportsNews = new Article('Привет, Мир!', 20, 'Lorem Lorem', 14, '2px solid black', 'red');\r\n$sportsNews->printArticle();\r\n
+===================================================================
+--- index.php	(revision c5678b4129d72271fc673ee69d107a69ebdc25e6)
++++ index.php	(date 1601626764267)
+@@ -30,5 +30,12 @@
+ 
+ }
+ 
+-$sportsNews = new Article('Привет, Мир!', 20, 'Lorem Lorem', 14, '2px solid black', 'red');
++$sportsNews = new Article(
++    'Привет, Мир!',
++    20,
++    'Lorem Lorem',
++    14,
++    '2px solid black',
++    'red'
++);
+ $sportsNews->printArticle();

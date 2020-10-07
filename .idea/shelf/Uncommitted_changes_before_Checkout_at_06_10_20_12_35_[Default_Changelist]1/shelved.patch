@@ -1,0 +1,45 @@
+Index: index.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?php\r\n\r\nclass Product\r\n{\r\n    static $companyName = 'Мороженко_и_Ко';\r\n    const YEAR_START = '1987г';\r\n\r\n    public $title;\r\n    public $width;\r\n    public $height;\r\n    public $img;\r\n\r\n    public function __construct(string $title, int $width, int $height, string $img)\r\n    {\r\n        $this->title = $title;\r\n        $this->width = $width;\r\n        $this->height = $height;\r\n        $this->img = $img;\r\n    }\r\n\r\n    public function showImage()\r\n    {\r\n        echo\r\n        \"<div style='display:flex; flex-direction: column; align-items: center; justify-content: space-between; background: url({$this->img}) no-repeat center/100%;width: {$this->width}px;height: {$this->height}px;border: 1px solid black;margin-bottom: 20px'>\r\n          <h2 style='text-align: center; margin: 0;'>{$this->title}</h2>\r\n        </div>\";\r\n    }\r\n}\r\n\r\n\r\n\r\n\r\n$choco = new Product('Choco', 200, 200,'choco.png');\r\n$choco->showImage();\r\necho Product::$companyName . \" \" . Product::YEAR_START;\r\n\r\n\r\n
+===================================================================
+--- index.php	(revision c28bca372774156b2f796ffa9c33a61406e70009)
++++ index.php	(date 1601906968776)
+@@ -1,37 +1,1 @@
+ <?php
+-
+-class Product
+-{
+-    static $companyName = 'Мороженко_и_Ко';
+-    const YEAR_START = '1987г';
+-
+-    public $title;
+-    public $width;
+-    public $height;
+-    public $img;
+-
+-    public function __construct(string $title, int $width, int $height, string $img)
+-    {
+-        $this->title = $title;
+-        $this->width = $width;
+-        $this->height = $height;
+-        $this->img = $img;
+-    }
+-
+-    public function showImage()
+-    {
+-        echo
+-        "<div style='display:flex; flex-direction: column; align-items: center; justify-content: space-between; background: url({$this->img}) no-repeat center/100%;width: {$this->width}px;height: {$this->height}px;border: 1px solid black;margin-bottom: 20px'>
+-          <h2 style='text-align: center; margin: 0;'>{$this->title}</h2>
+-        </div>";
+-    }
+-}
+-
+-
+-
+-
+-$choco = new Product('Choco', 200, 200,'choco.png');
+-$choco->showImage();
+-echo Product::$companyName . " " . Product::YEAR_START;
+-
+-

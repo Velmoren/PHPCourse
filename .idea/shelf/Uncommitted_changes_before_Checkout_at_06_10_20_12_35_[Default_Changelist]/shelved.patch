@@ -1,0 +1,112 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"68b4f6d0-087f-4067-9004-8ca5780c0b94\" name=\"Default Changelist\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/index.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/index.php\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"lesson_5\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1iBn2TjyBFF62VKkhmDW7PepV1U\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"nodejs_interpreter_path.stuck_in_default_project\" value=\"undefined stuck path\" />\r\n    <property name=\"nodejs_npm_path_reset_for_default_project\" value=\"true\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"index.php\" type=\"JavascriptDebugType\" temporary=\"true\" nameIsGenerated=\"true\" uri=\"http://localhost:63342/PHPCourse/portfolio/index.php\" useBuiltInWebServerPort=\"true\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"JavaScript Debug.index.php\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"68b4f6d0-087f-4067-9004-8ca5780c0b94\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1601389647947</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1601389647947</updated>\r\n      <workItem from=\"1601389651012\" duration=\"1978000\" />\r\n      <workItem from=\"1601392335018\" duration=\"10000\" />\r\n      <workItem from=\"1601542769343\" duration=\"4073000\" />\r\n      <workItem from=\"1601547263509\" duration=\"6180000\" />\r\n      <workItem from=\"1601553529936\" duration=\"7797000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"lesson_2\">\r\n      <created>1601547379463</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601547379463</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"v1.0.1\">\r\n      <created>1601548420224</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601548420224</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"v1.0.0\">\r\n      <created>1601553204052</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601553204052</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"v1.0.0\">\r\n      <created>1601558562213</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601558562213</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"v1.0.0\">\r\n      <created>1601558747167</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601558747167</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"v1.0.0\">\r\n      <created>1601889013080</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601889013080</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"v1.0.0\">\r\n      <created>1601889482616</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601889482616</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"v1.0.0\">\r\n      <created>1601890069964</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601890069964</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"v1.0.0\">\r\n      <created>1601899189930</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601899189930</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"v1.0.0\">\r\n      <created>1601900539765</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601900539765</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"v1.0.0\">\r\n      <created>1601900751703</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601900751703</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"12\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"lesson_2\" />\r\n    <MESSAGE value=\"v1.0.1\" />\r\n    <MESSAGE value=\"v1.0.0\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"v1.0.0\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"230\" y=\"198\" key=\"#Inspections\" timestamp=\"1601898741392\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"230\" y=\"198\" key=\"#Inspections/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601898741392\" />\r\n    <state x=\"229\" y=\"1\" key=\"CommitChangelistDialog2\" timestamp=\"1601900751173\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"229\" y=\"1\" key=\"CommitChangelistDialog2/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601900751173\" />\r\n    <state x=\"198\" y=\"252\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1601900753649\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"198\" y=\"252\" key=\"Vcs.Push.Dialog.v2/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601900753649\" />\r\n    <state x=\"269\" y=\"233\" key=\"search.everywhere.popup\" timestamp=\"1601547314864\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"269\" y=\"233\" key=\"search.everywhere.popup/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601547314864\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision c28bca372774156b2f796ffa9c33a61406e70009)
++++ .idea/workspace.xml	(date 1601976795721)
+@@ -16,7 +16,7 @@
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="lesson_5" />
++        <entry key="$PROJECT_DIR$" value="lesson_5_hard" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -27,8 +27,11 @@
+     <option name="showLibraryContents" value="true" />
+   </component>
+   <component name="PropertiesComponent">
++    <property name="DatabaseDriversLRU" value="sqlite&#10;mysql" />
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
++    <property name="database.data.extractors.current.export.id" value="SQL Inserts" />
++    <property name="database.data.extractors.current.id" value="SQL Inserts" />
+     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+     <property name="nodejs_package_manager_path" value="npm" />
+@@ -57,6 +60,9 @@
+       <workItem from="1601542769343" duration="4073000" />
+       <workItem from="1601547263509" duration="6180000" />
+       <workItem from="1601553529936" duration="7797000" />
++      <workItem from="1601968455069" duration="1360000" />
++      <workItem from="1601974417167" duration="375000" />
++      <workItem from="1601974807144" duration="1988000" />
+     </task>
+     <task id="LOCAL-00001" summary="lesson_2">
+       <created>1601547379463</created>
+@@ -135,7 +141,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1601900751703</updated>
+     </task>
+-    <option name="localTasksCounter" value="12" />
++    <task id="LOCAL-00012" summary="d">
++      <created>1601906809152</created>
++      <option name="number" value="00012" />
++      <option name="presentableId" value="LOCAL-00012" />
++      <option name="project" value="LOCAL" />
++      <updated>1601906809152</updated>
++    </task>
++    <option name="localTasksCounter" value="13" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -145,21 +158,50 @@
+     <MESSAGE value="lesson_2" />
+     <MESSAGE value="v1.0.1" />
+     <MESSAGE value="v1.0.0" />
+-    <option name="LAST_COMMIT_MESSAGE" value="v1.0.0" />
++    <MESSAGE value="d" />
++    <option name="LAST_COMMIT_MESSAGE" value="d" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="230" y="198" key="#Inspections" timestamp="1601898741392">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="230" y="198" key="#Inspections/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601898741392" />
+-    <state x="229" y="1" key="CommitChangelistDialog2" timestamp="1601900751173">
++    <state x="349" y="0" width="1184" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601974984675">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="349" y="0" width="1184" height="1040" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601974984675" />
++    <state x="229" y="1" key="CommitChangelistDialog2" timestamp="1601906808601">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state x="229" y="1" key="CommitChangelistDialog2/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601906808601" />
++    <state width="935" height="272" key="GridCell.Tab.0.bottom" timestamp="1601976619121">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state width="935" height="272" key="GridCell.Tab.0.bottom/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601976619121" />
++    <state width="935" height="272" key="GridCell.Tab.0.center" timestamp="1601976619121">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state width="935" height="272" key="GridCell.Tab.0.center/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601976619121" />
++    <state width="935" height="272" key="GridCell.Tab.0.left" timestamp="1601976619121">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state width="935" height="272" key="GridCell.Tab.0.left/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601976619121" />
++    <state width="935" height="272" key="GridCell.Tab.0.right" timestamp="1601976619121">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state width="935" height="272" key="GridCell.Tab.0.right/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601976619121" />
++    <state width="196" height="539" key="HiddenNamespacesPopup" timestamp="1601975063385">
++      <screen x="0" y="0" width="1920" height="1040" />
++    </state>
++    <state width="196" height="539" key="HiddenNamespacesPopup/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601975063385" />
++    <state x="198" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601906812865">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="229" y="1" key="CommitChangelistDialog2/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601900751173" />
+-    <state x="198" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601900753649">
++    <state x="198" y="252" key="Vcs.Push.Dialog.v2/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601906812865" />
++    <state x="81" y="224" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1601976482379">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="198" y="252" key="Vcs.Push.Dialog.v2/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601900753649" />
++    <state x="81" y="224" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/1920.59.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1601976482379" />
+     <state x="269" y="233" key="search.everywhere.popup" timestamp="1601547314864">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
